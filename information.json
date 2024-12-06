@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "settings": 2
+    },
+    "id_name": "cloudflare_api",
+    "version": 1,
+    "author": "tom",
+    "name": "Cloudflare api",
+    "description": ""
+}
