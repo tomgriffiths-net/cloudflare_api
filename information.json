@@ -3,7 +3,7 @@
         "settings": 2
     },
     "id_name": "cloudflare_api",
-    "version": 1,
+    "version": 2,
     "author": "tom",
     "name": "Cloudflare api",
     "description": ""
